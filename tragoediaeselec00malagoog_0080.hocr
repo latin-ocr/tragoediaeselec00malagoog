@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tragoediaeselec00malagoog_0080.png"; bbox 0 0 2356 4282; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 184 1327 873 1419">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 184 1327 873 1419">
+     <span class='ocr_line' id='line_1_1' title="bbox 184 1327 873 1419; baseline -0.012 0"><span class='ocrx_word' id='word_1_1' title='bbox 184 1329 426 1419; x_wconf 72' lang='lat' dir='ltr'><em>OAROLI</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 453 1327 873 1419; x_wconf 72' lang='lat' dir='ltr'><em>MALAPERTII</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 141 1584 897 1644">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 141 1584 897 1644">
+     <span class='ocr_line' id='line_1_2' title="bbox 141 1584 897 1644; baseline -0.001 -3"><span class='ocrx_word' id='word_1_3' title='bbox 141 1585 354 1644; x_wconf 82' lang='lat' dir='ltr'><strong>MONTENSIS</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 371 1585 518 1642; x_wconf 79' lang='lat' dir='ltr'>BELGAE</span> <span class='ocrx_word' id='word_1_5' title='bbox 535 1586 558 1640; x_wconf 88' lang='lat' dir='ltr'><strong>E</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 578 1584 788 1642; x_wconf 78' lang='lat' dir='ltr'>SOCIETATE</span> <span class='ocrx_word' id='word_1_7' title='bbox 806 1584 897 1642; x_wconf 85' lang='lat' dir='ltr'><strong>JESU</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 59 1862 983 1995">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 59 1862 983 1995">
+     <span class='ocr_line' id='line_1_3' title="bbox 59 1862 983 1995; baseline -0.002 -1"><span class='ocrx_word' id='word_1_8' title='bbox 59 1862 983 1995; x_wconf 83' lang='lat' dir='ltr'>SEDECIAS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 275 2150 679 2288">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 275 2150 679 2288">
+     <span class='ocr_line' id='line_1_4' title="bbox 275 2150 679 2288; baseline -0.007 1"><span class='ocrx_word' id='word_1_9' title='bbox 275 2150 277 2157; x_wconf 27' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_10' title='bbox 362 2210 679 2288; x_wconf 80' lang='lat' dir='ltr'><strong>TRAGOEDIA.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1182 4282">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1182 4282">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1182 4282; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1182 4282; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
